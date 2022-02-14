@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bharat525/meta_wave.git/static/css/main.362d1aa4.css",
+    "main.js": "/Bharat525/meta_wave.git/static/js/main.2dfaf15d.js",
+    "static/media/banner.jpg": "/Bharat525/meta_wave.git/static/media/banner.4c6711a22879dd1ba89f.jpg",
+    "static/media/blog.jpeg": "/Bharat525/meta_wave.git/static/media/blog.23559dd0da9af14bb41e.jpeg",
+    "static/media/mainImg.svg": "/Bharat525/meta_wave.git/static/media/mainImg.0dc232b1a4ced21e072c2a66c00bc011.svg",
+    "static/media/governce.svg": "/Bharat525/meta_wave.git/static/media/governce.1237b816cadb00ec8292a8399022ed0c.svg",
+    "static/media/icons.svg": "/Bharat525/meta_wave.git/static/media/icons.068eff89003d7b2bc85e329f3033c360.svg",
+    "static/media/logo.svg": "/Bharat525/meta_wave.git/static/media/logo.3dcad36ab0ec87a9290e593eadefc5d5.svg",
+    "static/media/gitIcon.svg": "/Bharat525/meta_wave.git/static/media/gitIcon.d205c6f8f41922154b9674e53ebdeb3a.svg",
+    "index.html": "/Bharat525/meta_wave.git/index.html",
+    "static/media/easy.svg": "/Bharat525/meta_wave.git/static/media/easy.203584c74375e24e731f70a9209f57c6.svg",
+    "static/media/burger.svg": "/Bharat525/meta_wave.git/static/media/burger.5181571974fa8c324ee81bf69f4af86f.svg",
+    "main.362d1aa4.css.map": "/Bharat525/meta_wave.git/static/css/main.362d1aa4.css.map",
+    "main.2dfaf15d.js.map": "/Bharat525/meta_wave.git/static/js/main.2dfaf15d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362d1aa4.css",
+    "static/js/main.2dfaf15d.js"
+  ]
+}
